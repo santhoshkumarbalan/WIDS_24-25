@@ -32,3 +32,4 @@ Exploring Optimization Algorithms and Applications
 2. I can give you problems in combinatorial optimisation
 3. Study the mathematics more
 
+Some Good websites for referneces: https://awibisono.github.io/2016/06/06/world-of-optimization.html
